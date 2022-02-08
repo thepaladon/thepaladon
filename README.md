@@ -6,6 +6,7 @@
 
 <strong> For contact: </strong> 
 - Email : ang.don.ang@gmail.com
+- Personal Website - https://angelov.design/
 - Twitter : https://twitter.com/ThePaladon
 
 <!---
