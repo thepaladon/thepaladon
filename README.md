@@ -1,8 +1,8 @@
  >Hello!
  
- I’m  Angel Angelov. A first year student in Breda University studying Games Programming. (The programme's full name is Creative Media and Game Technologies)
+ I’m  Angel Angelov. A second year student in Breda University studying Programming.
  
- I’m interested in everything game code and C++ related. I especially like working on game engines / game engine tools.
+ I’m interested in everything game code and C++ related. I especially like working on game engine architecture and graphics.
 
 <strong> For contact: </strong> 
 - Email : ang.don.ang@gmail.com
