@@ -1,5 +1,4 @@
- >Hello!
- 
+ Hello!
  I’m  Angel Angelov. A second year student in Breda University studying Programming.
  
  I’m interested in everything game code and C++ related. I especially like working on game engine architecture and graphics.
