@@ -1,7 +1,7 @@
  Hello!
- I’m  Angel Angelov. A second year student in Breda University studying Programming.
+ I’m  Angel Angelov. A third-year student at Breda University studying Programming.
  
- I’m interested in everything game code and C++ related. I especially like working on game engine architecture and graphics.
+ I’m interested in everything Graphics and write mostly in C++ and Rust. I especially like working on Game Engine Architecture and Graphics Features & APIs.
 
 <strong> For contact: </strong> 
 - Email : ang.don.ang@gmail.com
