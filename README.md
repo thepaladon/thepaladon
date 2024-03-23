@@ -17,10 +17,10 @@ For more info, check out my [website's "About me" page](https://angelov.design/a
 - **Breda University of Applied Sciences**, Creative Media and Game Technologies (Sep 2021 - Present)
 
 ### 🔥 Streak Stats
-![thepaladon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thepaladon&theme=tokyonight&hide_border=false)
+![thepaladon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thepaladon&theme=tokyonight&hide_border=true)
 
 ### 📈 GitHub Stats
-![thepaladon's Stats](https://github-readme-stats.vercel.app/api?username=thepaladon&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![thepaladon's Stats](https://github-readme-stats.vercel.app/api?username=thepaladon&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 (😔 Wish organization work showed up here 😔)
 
