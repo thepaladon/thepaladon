@@ -3,7 +3,7 @@
 ## 💻 Graphics Programmer & [Whatever Currently Researching] Enthusiast
 
 Born in Bulgaria, based in the Netherlands, I’m interested in everything Graphics and code mostly in C++ and Rust. I especially like working on Game Graphics Architecture and Relevant Rendering Features.
-For more info, check out my [website's "About me" page](https://angelov.design/about-me/).
+For more info, check out my [website](https://angelov.design/about-me/).
 
 ### 🔍 Currently Exploring
 - ReSTIR and real-time path-tracing
