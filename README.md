@@ -7,7 +7,7 @@ For more info, check out my [website's "About me" page](https://angelov.design/a
 
 ### 💼 Experience
 - **Graphics Lead**, Ball - PC & PS5 Custom Engine Game, Breda NL (Sep 2023 - Present)
-- **Intern**, Traverse Research, Breda NL (July 2023 - Sep 2023)
+- **Research Intern**, Traverse Research, Breda NL (July 2023 - Sep 2023)
 - **PS5 Graphics Programmer**, Hellbound - PC & PS5 Custom Engine Game, Breda NL (Feb 2023 - July 2023)
 
 ### 🔍 Currently Exploring
