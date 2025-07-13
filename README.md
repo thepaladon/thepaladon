@@ -2,11 +2,11 @@
 
 ## 💻 Graphics Programmer & [Whatever Currently Researching] Enthusiast
 
-Born in Bulgaria, based in the Netherlands, I’m interested in everything Graphics and code mostly in C++ and (sometimes) Rust. I especially like working on Game Graphics Architecture and Relevant Rendering Features.
+Born in Bulgaria, based in the Netherlands, I’m interested in everything Graphics and code mostly in C++ and (sometimes) Rust. Talk to me about ray-tracing and cool new graphics papers.
 For more info, check out my [website](https://angelov.design/about-me/).
 
 ### 🔍 Currently
-- Interning at Triumph Studios 
+- Working @ Triumph Studios as a Rendering Engineer 
 
 ### 💼 Experience
 - **Graphics Lead**, Ball - PC & PS5 Custom Engine Game, Breda NL (Sep 2023 - July 2024)
