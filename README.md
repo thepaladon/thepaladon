@@ -8,10 +8,12 @@ For more info, check out my [website](https://angelov.design/about-me/).
 ### 🔍 Currently
 - Working @ Triumph Studios as a Rendering Engineer 
 
+<!---
 ### 💼 Experience
 - **Graphics Lead**, Ball - PC & PS5 Custom Engine Game, Breda NL (Sep 2023 - July 2024)
 - **Research Intern**, Traverse Research, Breda NL (July 2023 - Sep 2023)
 - **PS5 Graphics Programmer**, Hellbound - PC & PS5 Custom Engine Game, Breda NL (Feb 2023 - July 2023)
+--->
 
 ### 📚 Education
 - **Breda University of Applied Sciences**, Creative Media and Game Technologies (Sep 2021 - July 2025)
